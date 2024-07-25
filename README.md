@@ -34,6 +34,22 @@ pod install
 
 ## Usage
 
+### FNOLCaptureView
+
+`FNOLCaptureView` is a SwiftUI view for capturing video. It provides a completion handler that returns the local file path of the recorded video when the user taps the upload button.
+
+#### Initializer
+
+```swift
+public init(
+    clientID: String,
+    onCaptureCompletion: ((URL?) -> Void)? = nil
+)
+```
+
+- `clientID`: A client ID to validate and enable usage of this module.
+- `onCaptureCompletion`: A closure to be executed when the user uploads the recorded video. The closure takes the local URL of the recorded video as its parameter.
+
 ### SwiftUI Example
 
 To use `FNOLCaptureView` in a SwiftUI codebase:
@@ -88,22 +104,6 @@ class ViewController: UIViewController {
     }
 }
 ```
-
-#### FNOLCaptureView
-
-`FNOLCaptureView` is a SwiftUI view for capturing video. It provides a completion handler that returns the local file path of the recorded video when the user taps the upload button.
-
-### Initializer
-
-```swift
-public init(
-    clientID: String,
-    onCaptureCompletion: ((URL?) -> Void)? = nil
-)
-```
-
-- `clientID`: A client ID to validate and enable usage of this module.
-- `onCaptureCompletion`: A closure to be executed when the user uploads the recorded video. The closure takes the local URL of the recorded video as its parameter.
 
 ## Permissions
 
