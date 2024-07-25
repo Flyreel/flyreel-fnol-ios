@@ -35,7 +35,7 @@ SOFTWARE.
   spec.swift_version = "5.10"
   spec.cocoapods_version = '>= 1.15.2'
 
-  spec.source       = { :git => "https://github.com/Flyreel/flyreel-fnol-ios.git", :tag => spec.version }
+  spec.source       = { :git => "https://github.com/Flyreel/flyreel-fnol-ios", :tag => spec.version }
   spec.vendored_frameworks = 'FlyreelFNOL.xcframework'
 
   spec.frameworks = ['UIKit', 'SwiftUI']
