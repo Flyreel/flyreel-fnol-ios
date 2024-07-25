@@ -39,7 +39,10 @@
         "name": "FRCapture",
         "printedName": "FRCapture",
         "declKind": "Import",
-        "moduleName": "FlyreelFNOL"
+        "moduleName": "FlyreelFNOL",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "TypeDecl",

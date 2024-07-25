@@ -1,5 +1,0 @@
-module FRCapture {
-    header "capture.hpp"
-
-    export *
-}
