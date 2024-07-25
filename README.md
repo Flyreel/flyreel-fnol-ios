@@ -36,7 +36,7 @@ pod install
 
 ### SwiftUI Example
 
-To use FNOLCaptureView in a SwiftUI codebase:
+To use `FNOLCaptureView` in a SwiftUI codebase:
 
 ```swift
 import SwiftUI
