@@ -6,84 +6,61 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		rvIsu1XgmmTrLiMa+cLlRAsopWM=
+		nWeJyxyWbLovT2/jodhBVDdE+Is=
+		</data>
+		<key>Gilroy-Medium.otf</key>
+		<data>
+		g301aqaewXkuwgROXXQcZXNM1jo=
+		</data>
+		<key>Gilroy-Regular.otf</key>
+		<data>
+		Jism+NCS8FEDaFD3FJBy/mVntAc=
+		</data>
+		<key>Gilroy-SemiBold.otf</key>
+		<data>
+		U/S1JfRoWNxURmpAujLxRZhqZkg=
 		</data>
 		<key>Headers/FlyreelFNOL-Swift.h</key>
 		<data>
-		2qAI41juinpmv99/kOwVvlEYDjY=
+		+xaCImScEL+4FnuvJN8AA9wEXRo=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SaDDedVQPHPDIz6riB2jC3eOBHY=
+		20CUeLK4A0goK00yDi/F8VpJUuU=
 		</data>
 		<key>Modules/FlyreelFNOL.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		1jbyw1PDCfeZwC3GzKwodXE+ZYE=
+		V0UR6ZO78f14Naw5PmFeRD0VLaM=
 		</data>
 		<key>Modules/FlyreelFNOL.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		ztu82I11HECfOdD/XIPy8DAFSm8=
+		8DPKj24SreT32lwrT/pZa03xhR8=
 		</data>
 		<key>Modules/FlyreelFNOL.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		r5Idq8FFyl4jxUMp+C4QDU1AZSQ=
+		YwmnsvEJKFrD3+Cv6TOT/PKeWsI=
 		</data>
 		<key>Modules/FlyreelFNOL.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		ztu82I11HECfOdD/XIPy8DAFSm8=
+		8DPKj24SreT32lwrT/pZa03xhR8=
 		</data>
 		<key>Modules/FlyreelFNOL.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		BhEXHEFUyhb+pnkGEKzWe9jpZ8o=
+		OjFBnEoZdqRLWr7hgmTh7fXXMws=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		AK7hG/K1NMXEmo0kTg80XceLqj0=
 		</data>
-		<key>NativeFNOLV3.storyboardc/BV1-FR-VrT-view-qMw-7R-Gh3.nib</key>
-		<data>
-		s6dzGNuoyybV0Z0pHE4XrVRcrUI=
-		</data>
-		<key>NativeFNOLV3.storyboardc/Info.plist</key>
-		<data>
-		ftOcwahxWXfVA5rxoj9BIrF9vk0=
-		</data>
-		<key>NativeFNOLV3.storyboardc/IntroViewController.nib</key>
-		<data>
-		a6ZkiVCAGlr2gP2eiEwIP4Mdu3A=
-		</data>
-		<key>NativeFNOLV3.storyboardc/NativeFNOLV3ViewController.nib</key>
-		<data>
-		ZmO+YMJqpiKioi3FFxJC0r3xP74=
-		</data>
-		<key>NativeFNOLV3.storyboardc/PreviewIntroViewController.nib</key>
-		<data>
-		mKad9MNelnXaxLMBJRX7/DAGKbQ=
-		</data>
-		<key>NativeFNOLV3.storyboardc/PreviewViewController.nib</key>
-		<data>
-		f1NzKy/x3cFh/6Uop7uf5EgrjB4=
-		</data>
-		<key>NativeFNOLV3.storyboardc/RecordingViewController.nib</key>
-		<data>
-		c0raC/rxU3VFIqIVT1W/38ZCLUY=
-		</data>
-		<key>NativeFNOLV3.storyboardc/YFW-O2-43U-view-eNE-LG-2oN.nib</key>
-		<data>
-		N4K93N27P/tFjPCxYqki6yZGsNU=
-		</data>
-		<key>NativeFNOLV3.storyboardc/oQd-Rp-61a-view-RW1-zM-DEW.nib</key>
-		<data>
-		USV9dRboMzL2sI6XfW8ZanFZ8ag=
-		</data>
-		<key>NativeFNOLV3.storyboardc/ofM-ZA-482-view-PM1-8v-IM7.nib</key>
-		<data>
-		7NhK5uGM9tt7MdrkS/sucf5hJYk=
-		</data>
-		<key>NativeFNOLV3.storyboardc/pws-mv-b1T-view-oHP-Cb-9Fk.nib</key>
-		<data>
-		eizD7aiYpDi9RhZXbVmd/y2I4YQ=
-		</data>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MhHxfzvYot1eYR71h2FK/9sDAwc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -91,49 +68,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H9SeK6b4sYopDSwcrBDMRslCmaLOB0wn90+hvXwx7G4=
+			gPluRYzfNa94xleAxFgTOozmEfXgFCI3/UnTE1uS+Ao=
+			</data>
+		</dict>
+		<key>Gilroy-Medium.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			b4NndgayI14KaHU1x6CpYVa1VNYixlnO6n27kDciJcY=
+			</data>
+		</dict>
+		<key>Gilroy-Regular.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EfA5WsKtBY6707RKm+Pzh2EenhS90Qt+rH04zlxcd3Y=
+			</data>
+		</dict>
+		<key>Gilroy-SemiBold.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YNNNz9Rs9jKEiPXupN3fQvf+IQnOl3wWYQXAZzQSZ4E=
 			</data>
 		</dict>
 		<key>Headers/FlyreelFNOL-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CACMvGfoyWBBCXPmFopIxdZCE/NM8dZZRm/7j4ZW8e4=
+			YZMVj/wnbV4k4uxeEkrZ0DICyXN2/gTPbKVVyC9vKAE=
 			</data>
 		</dict>
 		<key>Modules/FlyreelFNOL.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z5IbScrHPIwe+m/O2Qytzr1thsukkogtvJr6RlulLWc=
+			I/rDVLWSJ6rBH+RnbzxAda10arE+s2ZmRyhAVDmg5w0=
 			</data>
 		</dict>
 		<key>Modules/FlyreelFNOL.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wDZvlYD/uLviA7j5vzqkg66WXnDfUYPWPRpPS68FsiI=
+			W83dNEHlrG5tW265xM1t3pgoWaagT+mJzv8+0ZxgipU=
 			</data>
 		</dict>
 		<key>Modules/FlyreelFNOL.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R4gfsaNGykk5yShpZoiweOku5PH0xMScmP+CYuiCNcg=
+			aNzS50NkBrITBQTxxm4giXH51OREEirbrlWXzy8ezTM=
 			</data>
 		</dict>
 		<key>Modules/FlyreelFNOL.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wDZvlYD/uLviA7j5vzqkg66WXnDfUYPWPRpPS68FsiI=
+			W83dNEHlrG5tW265xM1t3pgoWaagT+mJzv8+0ZxgipU=
 			</data>
 		</dict>
 		<key>Modules/FlyreelFNOL.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jytS2WBp2pHJz086A8jJsBBYYPzM+5NLCVS2WZu/0EA=
+			goTatWFL8F3qQl3sBYA0fc00fKQFrC+m+Hlx1o6kHhI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -143,82 +141,14 @@
 			PtbQHht7Xq/szMs2HgOmdvVU+w8IeqiipBSXBX43+lQ=
 			</data>
 		</dict>
-		<key>NativeFNOLV3.storyboardc/BV1-FR-VrT-view-qMw-7R-Gh3.nib</key>
+		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yyGUbajpXA1ZijUeeGRES+vRNmd2jsBKZVLE4qz4ShY=
+			ekQTV4ilCDzSQQmaA8nLd4LgAlatfiJrpRhDEL9K5To=
 			</data>
-		</dict>
-		<key>NativeFNOLV3.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			rlSK35LSfeZfdVIMbTA3OrGBRdSwtChoaUCMaHAZihQ=
-			</data>
-		</dict>
-		<key>NativeFNOLV3.storyboardc/IntroViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/obnNo+RhWNmgy+HtjRAfv2Skb8HRpAhO//JYG/ZpSQ=
-			</data>
-		</dict>
-		<key>NativeFNOLV3.storyboardc/NativeFNOLV3ViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IZ66Y7IhN5vIcA1AopvQ7h8QnmTHTKcMdsO5jnG2TZc=
-			</data>
-		</dict>
-		<key>NativeFNOLV3.storyboardc/PreviewIntroViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BtpYXvZZNuYXOP6ghQ64o2d5cuCWaoy1+ufDj0B4owU=
-			</data>
-		</dict>
-		<key>NativeFNOLV3.storyboardc/PreviewViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NlD2EVC6i/8WGPAxJZg5hDiXasfnVVzY9Xdajo3aJEw=
-			</data>
-		</dict>
-		<key>NativeFNOLV3.storyboardc/RecordingViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			9OTchrBYV3QzukCzKLg65WNQYMbU7iPsuugd7FMAWKw=
-			</data>
-		</dict>
-		<key>NativeFNOLV3.storyboardc/YFW-O2-43U-view-eNE-LG-2oN.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XJVbUv8ZgRL99cgdUkGzhSshJpZQBuJYmbUsDuv+RBQ=
-			</data>
-		</dict>
-		<key>NativeFNOLV3.storyboardc/oQd-Rp-61a-view-RW1-zM-DEW.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3QZbP4Y+xzMf6T4YvVmfFmh/NSTeg3ZhpUAh0Ijoptg=
-			</data>
-		</dict>
-		<key>NativeFNOLV3.storyboardc/ofM-ZA-482-view-PM1-8v-IM7.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6VtUUXAPumU0xFF6hwHaeXHPnDXxzRb9ei5lGsKx/o8=
-			</data>
-		</dict>
-		<key>NativeFNOLV3.storyboardc/pws-mv-b1T-view-oHP-Cb-9Fk.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jlJ52RsXK2Vudtn6lq1bQpuz+cMnomDMrogOlakekvQ=
-			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>
