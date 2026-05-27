@@ -536,6 +536,20 @@
       },
       {
         "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "FlyreelFNOL"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreMedia",
+        "printedName": "CoreMedia",
+        "declKind": "Import",
+        "moduleName": "FlyreelFNOL"
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -720,1757 +734,1876 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Managers\/RecordingTimerManager.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Managers\/RecordingTimerManager.swift",
       "kind": "FloatLiteral",
       "offset": 371,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/InfoCardView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/InfoCardView.swift",
       "kind": "StringLiteral",
       "offset": 1856,
       "length": 9,
       "value": "\"Default\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/MicLevelView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/MicLevelView.swift",
       "kind": "IntegerLiteral",
       "offset": 250,
       "length": 3,
       "value": "-40"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/MicLevelView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/MicLevelView.swift",
       "kind": "IntegerLiteral",
       "offset": 295,
       "length": 2,
       "value": "24"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/MicLevelView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/MicLevelView.swift",
       "kind": "StringLiteral",
       "offset": 2122,
       "length": 9,
       "value": "\"Default\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/MicLevelView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/MicLevelView.swift",
       "kind": "IntegerLiteral",
       "offset": 2164,
       "length": 3,
       "value": "-10"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Extensions\/UIView+Extensions.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Extensions\/UIView+Extensions.swift",
       "kind": "IntegerLiteral",
       "offset": 677,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/SettingsInstructionsView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/SettingsInstructionsView.swift",
       "kind": "StringLiteral",
       "offset": 2054,
       "length": 19,
       "value": "\"Camera Permission\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/SettingsInstructionsView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/SettingsInstructionsView.swift",
       "kind": "StringLiteral",
       "offset": 2243,
       "length": 23,
       "value": "\"Microphone Permission\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Managers\/FileStorageManager.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Managers\/FileStorageManager.swift",
       "kind": "StringLiteral",
       "offset": 320,
       "length": 32,
       "value": "\"Documents directory not found!\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/ClientID.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/ClientID.swift",
       "kind": "StringLiteral",
       "offset": 164,
       "length": 38,
       "value": "\"5215E9E2-A6C3-42AE-8895-A1B5130F6D94\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/PreviewHeaderView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/PreviewHeaderView.swift",
       "kind": "StringLiteral",
       "offset": 984,
       "length": 15,
       "value": "\"PreviewHeader\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/PreviewHeaderView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/PreviewHeaderView.swift",
       "kind": "StringLiteral",
       "offset": 1028,
       "length": 15,
       "value": "\"Video Preview\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/FNOL\/Views\/FNOLView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/FNOL\/Views\/FNOLView.swift",
       "kind": "BooleanLiteral",
       "offset": 190,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/FNOL\/Views\/FNOLView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/FNOL\/Views\/FNOLView.swift",
       "kind": "BooleanLiteral",
       "offset": 232,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/ViewModels\/PreviewViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/ViewModels\/PreviewViewModel.swift",
       "kind": "Array",
       "offset": 234,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/ViewModels\/PreviewViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/ViewModels\/PreviewViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 278,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/ViewModels\/PreviewViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/ViewModels\/PreviewViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 318,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/ViewModels\/PreviewViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/ViewModels\/PreviewViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 357,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/IntroView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/IntroView.swift",
       "kind": "StringLiteral",
       "offset": 2197,
       "length": 12,
       "value": "\"Intro View\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/IntroView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/IntroView.swift",
       "kind": "BooleanLiteral",
       "offset": 2248,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/UI\/RecordingOutlineShape.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/UI\/RecordingOutlineShape.swift",
       "kind": "IntegerLiteral",
       "offset": 182,
       "length": 2,
       "value": "50"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 358,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 398,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 440,
       "length": 2,
       "value": "28"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 481,
       "length": 2,
       "value": "50"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 525,
       "length": 3,
       "value": "-20"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 569,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "StringLiteral",
       "offset": 3941,
       "length": 18,
       "value": "\"Scrubber - Start\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "StringLiteral",
       "offset": 4038,
       "length": 7,
       "value": "\"photo\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 4056,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 4082,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 4103,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 4157,
       "length": 3,
       "value": "300"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 4175,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "StringLiteral",
       "offset": 4219,
       "length": 19,
       "value": "\"Scrubber - Middle\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "StringLiteral",
       "offset": 4317,
       "length": 7,
       "value": "\"photo\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 4335,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 4361,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 4382,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 4436,
       "length": 3,
       "value": "300"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 4454,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "StringLiteral",
       "offset": 4498,
       "length": 16,
       "value": "\"Scrubber - End\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "StringLiteral",
       "offset": 4593,
       "length": 7,
       "value": "\"photo\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 4611,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 4637,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 4658,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 4712,
       "length": 3,
       "value": "300"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/ScrubberView.swift",
       "kind": "IntegerLiteral",
       "offset": 4730,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
       "kind": "StringLiteral",
       "offset": 205,
       "length": 16,
       "value": "\"Gilroy-Regular\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
       "kind": "StringLiteral",
       "offset": 244,
       "length": 15,
       "value": "\"Gilroy-Medium\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
       "kind": "StringLiteral",
       "offset": 284,
       "length": 17,
       "value": "\"Gilroy-SemiBold\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
       "kind": "BooleanLiteral",
       "offset": 345,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
       "kind": "IntegerLiteral",
       "offset": 443,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
       "kind": "IntegerLiteral",
       "offset": 504,
       "length": 2,
       "value": "32"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
       "kind": "IntegerLiteral",
       "offset": 564,
       "length": 2,
       "value": "24"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
       "kind": "IntegerLiteral",
       "offset": 634,
       "length": 2,
       "value": "24"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
       "kind": "IntegerLiteral",
       "offset": 693,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
       "kind": "IntegerLiteral",
       "offset": 762,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
       "kind": "IntegerLiteral",
       "offset": 832,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
       "kind": "IntegerLiteral",
       "offset": 894,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
       "kind": "IntegerLiteral",
       "offset": 954,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
       "kind": "IntegerLiteral",
       "offset": 1013,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
       "kind": "IntegerLiteral",
       "offset": 1073,
       "length": 2,
       "value": "17"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
       "kind": "IntegerLiteral",
       "offset": 1132,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Theme\/Font+Theme.swift",
       "kind": "IntegerLiteral",
       "offset": 1193,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
       "kind": "StringLiteral",
       "offset": 1114,
       "length": 14,
       "value": "\"Progress Bar\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
       "kind": "FloatLiteral",
       "offset": 1205,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
       "kind": "FloatLiteral",
       "offset": 1220,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
       "kind": "IntegerLiteral",
       "offset": 1252,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
       "kind": "FloatLiteral",
       "offset": 1286,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
       "kind": "FloatLiteral",
       "offset": 1301,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
       "kind": "IntegerLiteral",
       "offset": 1333,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
       "kind": "FloatLiteral",
       "offset": 1367,
       "length": 3,
       "value": "0.7"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
       "kind": "FloatLiteral",
       "offset": 1382,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
       "kind": "IntegerLiteral",
       "offset": 1414,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
       "kind": "FloatLiteral",
       "offset": 1449,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
       "kind": "FloatLiteral",
       "offset": 1464,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/ProgressBarView.swift",
       "kind": "IntegerLiteral",
       "offset": 1496,
       "length": 2,
       "value": "32"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureHeaderView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureHeaderView.swift",
       "kind": "StringLiteral",
       "offset": 1261,
       "length": 31,
       "value": "\"CaptureHeaderView - Recording\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureHeaderView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureHeaderView.swift",
       "kind": "StringLiteral",
       "offset": 1324,
       "length": 7,
       "value": "\"12:34\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureHeaderView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureHeaderView.swift",
       "kind": "BooleanLiteral",
       "offset": 1346,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureHeaderView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureHeaderView.swift",
       "kind": "StringLiteral",
       "offset": 1405,
       "length": 35,
       "value": "\"CaptureHeaderView - Not Recording\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureHeaderView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureHeaderView.swift",
       "kind": "StringLiteral",
       "offset": 1472,
       "length": 7,
       "value": "\"00:00\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureHeaderView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureHeaderView.swift",
       "kind": "BooleanLiteral",
       "offset": 1494,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
       "kind": "StringLiteral",
       "offset": 3420,
       "length": 8,
       "value": "\"Camera\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
       "kind": "StringLiteral",
       "offset": 3620,
       "length": 15,
       "value": "\"Camera Denied\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
       "kind": "StringLiteral",
       "offset": 3878,
       "length": 5,
       "value": "\"Mic\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
       "kind": "StringLiteral",
       "offset": 4079,
       "length": 12,
       "value": "\"Mic Denied\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
       "kind": "StringLiteral",
       "offset": 4338,
       "length": 14,
       "value": "\"Mic Check 0%\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
       "kind": "BooleanLiteral",
       "offset": 4434,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
       "kind": "FloatLiteral",
       "offset": 4513,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
       "kind": "StringLiteral",
       "offset": 4621,
       "length": 15,
       "value": "\"Mic Check 30%\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
       "kind": "BooleanLiteral",
       "offset": 4718,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
       "kind": "FloatLiteral",
       "offset": 4797,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
       "kind": "StringLiteral",
       "offset": 4905,
       "length": 15,
       "value": "\"Mic Check 60%\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
       "kind": "BooleanLiteral",
       "offset": 5002,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
       "kind": "FloatLiteral",
       "offset": 5081,
       "length": 3,
       "value": "0.6"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
       "kind": "StringLiteral",
       "offset": 5189,
       "length": 16,
       "value": "\"Mic Check 100%\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
       "kind": "BooleanLiteral",
       "offset": 5287,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/OnboardingView.swift",
       "kind": "FloatLiteral",
       "offset": 5366,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 199,
       "length": 21,
       "value": "\"alert_dialog_cancel\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 281,
       "length": 20,
       "value": "\"alert_dialog_error\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 361,
       "length": 19,
       "value": "\"alert_dialog_exit\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 438,
       "length": 17,
       "value": "\"alert_dialog_ok\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 514,
       "length": 17,
       "value": "\"button_continue\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 608,
       "length": 38,
       "value": "\"camera_permission_denied_button_text\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 725,
       "length": 39,
       "value": "\"camera_permission_denied_instructions\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 836,
       "length": 32,
       "value": "\"camera_permission_denied_title\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 941,
       "length": 32,
       "value": "\"camera_permission_instructions\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 1039,
       "length": 25,
       "value": "\"camera_permission_title\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 1122,
       "length": 17,
       "value": "\"info_card_title\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 1200,
       "length": 20,
       "value": "\"info_card_subtitle\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 1279,
       "length": 18,
       "value": "\"info_card_header\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 1358,
       "length": 21,
       "value": "\"info_card_content_0\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 1440,
       "length": 21,
       "value": "\"info_card_content_1\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 1522,
       "length": 21,
       "value": "\"info_card_content_2\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 1604,
       "length": 21,
       "value": "\"info_card_content_3\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 1697,
       "length": 31,
       "value": "\"microphone_check_instructions\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 1803,
       "length": 36,
       "value": "\"microphone_check_progress_status_0\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 1914,
       "length": 36,
       "value": "\"microphone_check_progress_status_1\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 2025,
       "length": 36,
       "value": "\"microphone_check_progress_status_2\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 2136,
       "length": 36,
       "value": "\"microphone_check_progress_status_3\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 2237,
       "length": 24,
       "value": "\"microphone_check_title\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 2342,
       "length": 42,
       "value": "\"microphone_permission_denied_button_text\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 2467,
       "length": 43,
       "value": "\"microphone_permission_denied_instructions\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 2586,
       "length": 36,
       "value": "\"microphone_permission_denied_title\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 2699,
       "length": 36,
       "value": "\"microphone_permission_instructions\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 2805,
       "length": 29,
       "value": "\"microphone_permission_title\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 2899,
       "length": 24,
       "value": "\"onboarding_audio_error\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 2991,
       "length": 27,
       "value": "\"onboarding_settings_error\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 3080,
       "length": 21,
       "value": "\"preview_card_header\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 3161,
       "length": 19,
       "value": "\"preview_content_1\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 3240,
       "length": 19,
       "value": "\"preview_content_2\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 3319,
       "length": 19,
       "value": "\"preview_content_3\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 3398,
       "length": 19,
       "value": "\"preview_content_4\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 3483,
       "length": 25,
       "value": "\"recording_alert_content\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 3572,
       "length": 23,
       "value": "\"recording_alert_title\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 3652,
       "length": 15,
       "value": "\"retake_button\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 3733,
       "length": 25,
       "value": "\"settings_instructions_0\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 3824,
       "length": 25,
       "value": "\"settings_instructions_1\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 3921,
       "length": 32,
       "value": "\"settings_instructions_2_camera\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 4029,
       "length": 36,
       "value": "\"settings_instructions_2_microphone\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 4122,
       "length": 15,
       "value": "\"upload_button\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/Localization.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/Localization.swift",
       "kind": "StringLiteral",
       "offset": 4194,
       "length": 15,
       "value": "\"video_preview\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/AudioLevelMeter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1170,
+      "length": 4,
+      "value": "-160"
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/AudioLevelMeter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1266,
+      "length": 4,
+      "value": "-160"
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/AudioLevelMeter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1294,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/AudioLevelMeter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1434,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/AudioLevelMeter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1601,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/AudioLevelMeter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1617,
+      "length": 4,
+      "value": "-160"
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/AudioLevelMeter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1706,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/AudioLevelMeter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1794,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/AudioLevelMeter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1810,
+      "length": 4,
+      "value": "-160"
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/AudioLevelMeter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2000,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/AudioLevelMeter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2256,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/AudioLevelMeter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2272,
+      "length": 4,
+      "value": "-160"
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/AudioLevelMeter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2462,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/AudioLevelMeter.swift",
+      "kind": "FloatLiteral",
+      "offset": 2486,
+      "length": 7,
+      "value": "32768.0"
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/AudioLevelMeter.swift",
+      "kind": "FloatLiteral",
+      "offset": 2510,
+      "length": 7,
+      "value": "32768.0"
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/AudioLevelMeter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2604,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/AudioLevelMeter.swift",
+      "kind": "FloatLiteral",
+      "offset": 2624,
+      "length": 5,
+      "value": "1e-10"
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
       "kind": "StringLiteral",
       "offset": 412,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
       "kind": "StringLiteral",
       "offset": 454,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
       "kind": "StringLiteral",
       "offset": 502,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
       "kind": "StringLiteral",
       "offset": 545,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 600,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 713,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
       "kind": "StringLiteral",
       "offset": 761,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 811,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
       "kind": "StringLiteral",
       "offset": 868,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
       "kind": "FloatLiteral",
       "offset": 917,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/ViewModels\/OnboardingViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1007,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureView.swift",
       "kind": "StringLiteral",
       "offset": 8677,
       "length": 19,
       "value": "\"Capture – Ready\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureView.swift",
       "kind": "StringLiteral",
       "offset": 8939,
       "length": 23,
       "value": "\"Capture – Recording\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureView.swift",
       "kind": "BooleanLiteral",
       "offset": 9157,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureView.swift",
       "kind": "StringLiteral",
       "offset": 9239,
       "length": 20,
       "value": "\"Capture – Paused\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureView.swift",
       "kind": "BooleanLiteral",
       "offset": 9454,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureView.swift",
       "kind": "BooleanLiteral",
       "offset": 9494,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureView.swift",
       "kind": "BooleanLiteral",
       "offset": 9531,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureView.swift",
       "kind": "StringLiteral",
       "offset": 9613,
       "length": 27,
       "value": "\"Capture – Info Expanded\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/Views\/CaptureView.swift",
       "kind": "BooleanLiteral",
       "offset": 9837,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
       "kind": "StringLiteral",
       "offset": 1126,
       "length": 28,
       "value": "\"Microphone Progress Status\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
       "kind": "IntegerLiteral",
       "offset": 1207,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
       "kind": "FloatLiteral",
       "offset": 1254,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
       "kind": "StringLiteral",
       "offset": 1274,
       "length": 13,
       "value": "\"0% Progress\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
       "kind": "FloatLiteral",
       "offset": 1330,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
       "kind": "StringLiteral",
       "offset": 1350,
       "length": 14,
       "value": "\"30% Progress\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
       "kind": "FloatLiteral",
       "offset": 1407,
       "length": 3,
       "value": "0.6"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
       "kind": "StringLiteral",
       "offset": 1427,
       "length": 14,
       "value": "\"60% Progress\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
       "kind": "FloatLiteral",
       "offset": 1484,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Onboarding\/Views\/MicrophoneProgressView.swift",
       "kind": "StringLiteral",
       "offset": 1504,
       "length": 15,
       "value": "\"100% Progress\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/ViewModels\/CaptureViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/ViewModels\/CaptureViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 318,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/ViewModels\/CaptureViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/ViewModels\/CaptureViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 369,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/ViewModels\/CaptureViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/ViewModels\/CaptureViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 417,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/ViewModels\/CaptureViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/ViewModels\/CaptureViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 463,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/ViewModels\/CaptureViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/ViewModels\/CaptureViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 504,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/ViewModels\/CaptureViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/ViewModels\/CaptureViewModel.swift",
       "kind": "StringLiteral",
       "offset": 557,
       "length": 7,
       "value": "\"00:00\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/ViewModels\/CaptureViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/ViewModels\/CaptureViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 615,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Capture\/ViewModels\/CaptureViewModel.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Capture\/ViewModels\/CaptureViewModel.swift",
       "kind": "Array",
       "offset": 1078,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/PreviewView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/PreviewView.swift",
       "kind": "BooleanLiteral",
       "offset": 353,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/PreviewView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/PreviewView.swift",
       "kind": "StringLiteral",
       "offset": 2474,
       "length": 17,
       "value": "\"Preview - Intro\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/PreviewView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/PreviewView.swift",
       "kind": "StringLiteral",
       "offset": 2542,
       "length": 44,
       "value": "\"https:\/\/www.w3schools.com\/html\/mov_bbb.mp4\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/PreviewView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/PreviewView.swift",
       "kind": "BooleanLiteral",
       "offset": 2615,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/PreviewView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/PreviewView.swift",
       "kind": "StringLiteral",
       "offset": 2667,
       "length": 19,
       "value": "\"Preview - Playing\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/PreviewView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/PreviewView.swift",
       "kind": "StringLiteral",
       "offset": 2737,
       "length": 44,
       "value": "\"https:\/\/www.w3schools.com\/html\/mov_bbb.mp4\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/PreviewView.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Screens\/Preview\/Views\/PreviewView.swift",
       "kind": "BooleanLiteral",
       "offset": 2810,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
       "kind": "BooleanLiteral",
       "offset": 534,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
       "kind": "StringLiteral",
       "offset": 820,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
       "kind": "IntegerLiteral",
       "offset": 889,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
       "kind": "IntegerLiteral",
       "offset": 925,
       "length": 3,
       "value": "480"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
       "kind": "IntegerLiteral",
       "offset": 967,
       "length": 9,
       "value": "1000000"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
       "kind": "BooleanLiteral",
       "offset": 1173,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
       "kind": "BooleanLiteral",
       "offset": 1217,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
       "kind": "BooleanLiteral",
       "offset": 1264,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
       "kind": "BooleanLiteral",
       "offset": 1313,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Managers\/CaptureOutputManager.swift",
       "kind": "FloatLiteral",
       "offset": 1410,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
       "kind": "FloatLiteral",
       "offset": 260,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
       "kind": "BooleanLiteral",
       "offset": 290,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
       "kind": "IntegerLiteral",
       "offset": 327,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
       "kind": "StringLiteral",
       "offset": 1221,
       "length": 16,
       "value": "\"Flyreel Button\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
       "kind": "StringLiteral",
       "offset": 1307,
       "length": 14,
       "value": "\"Test Enabled\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
       "kind": "StringLiteral",
       "offset": 1368,
       "length": 15,
       "value": "\"Test Disabled\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
       "kind": "BooleanLiteral",
       "offset": 1396,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
       "kind": "StringLiteral",
       "offset": 1448,
       "length": 22,
       "value": "\"Test Enabled Rounded\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
       "kind": "IntegerLiteral",
       "offset": 1486,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
       "kind": "StringLiteral",
       "offset": 1535,
       "length": 23,
       "value": "\"Test Disabled Rounded\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
       "kind": "BooleanLiteral",
       "offset": 1571,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
       "kind": "IntegerLiteral",
       "offset": 1592,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
       "kind": "StringLiteral",
       "offset": 1641,
       "length": 11,
       "value": "\"Test Icon\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
       "kind": "FloatLiteral",
       "offset": 1685,
       "length": 3,
       "value": "0.2"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-fnol-core\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-fnol\/ios\/FlyreelFNOL\/Common\/UI\/FRButton.swift",
       "kind": "IntegerLiteral",
       "offset": 1704,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 636,
       "length": 16,
       "value": "\"CompletedGreen\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 786,
       "length": 14,
       "value": "\"FRBackground\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 928,
       "length": 11,
       "value": "\"FRPrimary\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1071,
       "length": 13,
       "value": "\"FRSecondary\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1218,
       "length": 14,
       "value": "\"OnBackground\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1360,
       "length": 11,
       "value": "\"OnPrimary\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1517,
       "length": 20,
       "value": "\"OnPrimaryContainer\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1669,
       "length": 13,
       "value": "\"OnSecondary\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1832,
       "length": 22,
       "value": "\"OnSecondaryContainer\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1982,
       "length": 11,
       "value": "\"OnSurface\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2135,
       "length": 18,
       "value": "\"PrimaryContainer\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2287,
       "length": 14,
       "value": "\"RecordingRed\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2447,
       "length": 20,
       "value": "\"SecondaryContainer\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2591,
       "length": 9,
       "value": "\"Surface\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2732,
       "length": 13,
       "value": "\"Transparent\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2979,
       "length": 12,
       "value": "\"back-arrow\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3113,
       "length": 8,
       "value": "\"camera\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3239,
       "length": 6,
       "value": "\"card\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3383,
       "length": 17,
       "value": "\"center-live-mic\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3527,
       "length": 11,
       "value": "\"flash-off\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3663,
       "length": 10,
       "value": "\"flash-on\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3804,
       "length": 13,
       "value": "\"green-check\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3948,
       "length": 13,
       "value": "\"icon-camera\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4086,
       "length": 10,
       "value": "\"icon-dot\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4229,
       "length": 14,
       "value": "\"icon-flyreel\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4368,
       "length": 10,
       "value": "\"icon-mic\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4513,
       "length": 15,
       "value": "\"icon-settings\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4646,
       "length": 6,
       "value": "\"info\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4783,
       "length": 13,
       "value": "\"info-filled\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4920,
       "length": 9,
       "value": "\"livemic\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5045,
       "length": 5,
       "value": "\"mic\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5185,
       "length": 15,
       "value": "\"record-button\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5322,
       "length": 8,
       "value": "\"retake\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5461,
       "length": 13,
       "value": "\"stop-button\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5596,
       "length": 8,
       "value": "\"upload\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-esjpdiopehcmttcbobqccmitmbwu\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/FlyreelFNOL-acfzqsaaaszhvrbbvjrmlqvbzmft\/Build\/Intermediates.noindex\/ArchiveIntermediates\/FlyreelFNOL\/IntermediateBuildFilesPath\/FlyreelFNOL.build\/Release-iphonesimulator\/FlyreelFNOL.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5737,
       "length": 14,

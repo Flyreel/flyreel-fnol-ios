@@ -1,14 +1,14 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "FlyreelFNOL"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "Flyreel FNOL."
   spec.homepage     = "https://risk.lexisnexis.com/products/flyreel"
 
   spec.license      = {
     :type => 'MIT',
     :text => <<-LICENSE
-    Copyright (c) 2024 Flyreel
+    Copyright (c) 2026 Flyreel
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

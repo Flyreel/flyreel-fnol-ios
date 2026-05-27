@@ -1,4 +1,3 @@
 framework module FlyreelFNOL {
   header "FlyreelFNOL-Swift.h"
-  requires objc
 }
